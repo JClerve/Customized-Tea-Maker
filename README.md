@@ -28,10 +28,11 @@ The customized tea maker is an innovative device designed to enhance the tea bre
    - **Bluetooth Module**: Communicates cup placement status to the cup releaser.
 
 ## Installation
-1. Clone this repository.
-2. Set up the required hardware components (servos, sensors, etc.).
-3. Upload the Arduino code to the microcontroller.
-4. Enjoy your customized tea!
+1. Create a clone of this repository.
+2. Assemble and configure the necessary hardware (servos, sensors, etc.).
+3. Programme the microcontroller with the Arduino code.
+4. Enjoy your customized tea!!
+
 
 Feel free to adapt and improve this project. Happy tea-making! 🍵
 
